@@ -1,0 +1,9 @@
+id int | name varchar(255) | address varchar(255)
+1 | divyank shah | 2309 brunswick street 
+3 | dev patel | 1096 barrington street
+4 | om patel | 5339 glebe street
+5 | arshad saiyed | vadodara
+
+
+7 | nikunj hudka | 2309 brunswick street
+8 | ram patel | 5309 brunswick street
