@@ -1,4 +1,4 @@
-# EventHub
+# Light Weight DBMS
 
 ## Introduction
 
